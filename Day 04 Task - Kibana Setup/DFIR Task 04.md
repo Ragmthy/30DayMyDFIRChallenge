@@ -20,7 +20,7 @@ A data visualisation and exploration tool used for log data analysis. Uses a web
 Has various visualisation capabilities also.  
 
 #### Installation 
-As per video - https://www.youtube.com/watch?v=ypXARA5Uk4I
+As per video - https://www.youtube.com/watch?v=tXwMoBbrkYw
 
 #### Some technical things to take note of:
 1. Now that Kibana also has to sit in the same server, ensure secure connection into the virtual machine once again. With its public IP, username and password
