@@ -30,8 +30,15 @@ Based on whatever level of access they're in (provided they've successfully logg
 
 ### Sources to show RDP being exposed
 
-[Shodan.io](https://www.shodan.io/)
+[Shodan.io](https://www.shodan.io/) </br>
 [Censys](https://search.censys.io/)
+
+##Recommendations to prevent RDP from getting exposed
+1. Turn RDP off on machines used.
+2. Multi-Factor Authentication
+3. Restricting Access (By implementing a Firewall rule - certain IP addresses can RDP into the machine)
+4. Better Passwords or a Privileged Access Management tool
+5. Change the default local accounts 
 
 ### Credits:
 Full credits to MyDFIR (Steven) for putting together this exercise
