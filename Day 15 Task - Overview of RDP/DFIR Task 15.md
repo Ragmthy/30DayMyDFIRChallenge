@@ -33,7 +33,7 @@ Based on whatever level of access they're in (provided they've successfully logg
 [Shodan.io](https://www.shodan.io/) </br>
 [Censys](https://search.censys.io/)
 
-##Recommendations to prevent RDP from getting exposed
+## Recommendations to prevent RDP from getting exposed
 1. Turn RDP off on machines used.
 2. Multi-Factor Authentication
 3. Restricting Access (By implementing a Firewall rule - certain IP addresses can RDP into the machine)
