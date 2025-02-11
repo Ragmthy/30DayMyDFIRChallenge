@@ -1,0 +1,23 @@
+Day 22: Alert for our .exe file, 
+
+winlog.event_data.OriginalFileName : Apollo.exe
+winlog.event_data.Hashes : SHA256=B84833C497CD9AC74EEF59693A4A5F2950903F79CAF5DF6D75F9D1268121B005
+
+For alert: the fields needed - host.hostname, message, winlog.event_data.CommandLine, winlog.event_data.ParentCommandLine, ParentImage, ProcessGuid
+User,
+
+Event ID: 3 - Network Connections (External)
+event.code:3 and event.provider:"Microsoft-Windows-Sysmon" and winlog.event_data.Initiated :"true" 
+
+Fields for Visualisation of Event ID:3 Table
+winlog.event_data.Image
+winlog.event_data.DestinationIP 
+winlog.event_data.DestinationPort
+winlog.event_data.SoureIP
+
+Event ID: 1 - Process Creates
+event.code:1 and event.provider:"Microsoft-Windows-Sysmon" and (powershell or cmd or rundll32)
+
+
+Event ID 5001: Windows Defender getting disabled.
+event.code:5001 and event.provider:Microsoft-Windows-Windows Defender 
