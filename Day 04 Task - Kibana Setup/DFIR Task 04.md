@@ -20,13 +20,13 @@ A data visualisation and exploration tool used for log data analysis. Uses a web
 Has various visualisation capabilities also.  
 
 #### Installation 
-As per video - https://www.youtube.com/watch?v=tXwMoBbrkYw
+As per [video](https://www.youtube.com/watch?v=tXwMoBbrkYw)
 
 #### Some technical things to take note of:
 1. Now that Kibana also has to sit in the same server, ensure secure connection into the virtual machine once again. With its public IP, username and password
 2. Ensure apt-get update and apt-get upgrade are always executed after connection is established
-3. Installation and reconfiguration of the Kibana package are executed as the Task video ~ Recollect commands like 'nano', 'cd', or for file executions in the same directory
-4. Command of 'systemctl' to ensure kibana services are running
+3. Installation and reconfiguration of the Kibana package are executed as the Task video ~ Recollect commands like `nano`, `cd`, or for file executions in the same directory
+4. Command of `systemctl` to ensure kibana services are running
 5. Enrollment token for elasticsearch to be used in Kibana, to keep safe
 6. If needed, the firewall within the virtual machine might need a modification
 
