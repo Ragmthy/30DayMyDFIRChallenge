@@ -1,0 +1,13 @@
+Your osTicket URL:
+https://216.128.185.117/osticket/upload/	
+
+Your Staff Control Panel:
+https://216.128.185.117/osticket/upload/scp
+
+SCP is the one I log into as root or admin. Admin credentials are in here:
+Admin User:
+First Name: RG
+Last Name: MyDFIR
+
+Username: MyDFIR-RG
+Password: pma password + "!"
