@@ -8,8 +8,8 @@ But before that, some small tasks are required to be done: </br>
 1. Changing our Windows Server's password, and having that password stored somewhere in its system in a text file, as our target asset. </br>
 2. To simulate a brute force attack, another common passwords list that would be sitting in our Kali Linux VM </br>
 
-### Small Task 1: Changing our Windows VM
-Logging into our Windows Server from Vultr, choose a directory where the machine's password file will be sitting. In my demo walkthrough, it's in Documents, and will be called Passwords_Q1-2025.txt . 
+### Small Task 1: Changing our Windows VM's password
+Logging into our Windows Server from Vultr, choose a directory where the machine's password file will be sitting. In my demo walkthrough, it's in Documents, and will be called Passwords_Q1_2025.txt . 
 
 Pick a unique password and keep that value into the text file. 
 After that, change the password of the Windows machine to the value chosen. (shown in video from [here](https://youtu.be/85x0NLj2zUo?si=Vyn-M3wv6zoudZ_E&t=140))
