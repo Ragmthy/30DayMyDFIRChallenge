@@ -20,6 +20,13 @@ Some things that can be observed:
 ![image](Malware_prevention%20alert%20.jpg)
 
 
+### Conclusion
+A really nicely put challenge. Some days towards the end were challenging when it comes to investigating out events from logs. 
+A suitable playlist to then pursue and learn would be the [Cybersecurity SOC Analyst Hands-On Labs](https://youtube.com/playlist?list=PLG6KGSNK4PuDdqYkOuIlAoNmwtLg5wyYJ&si=dVhofEJvnKXNwotb). 
+
+After understanding the bigger picture of Infrastructure and monitoring it as a SOC Analyst, this following playlist will now be more granular 
+and help one understand better each type of alert or suspicious artifact (i.e. a phishing email) and what to do to dissect it better. 
+
 ### Credits:
 Full credits to MyDFIR (Steven) for putting together this exercise
 
