@@ -5,7 +5,7 @@ Creator of Exercise: MyDFIR (Steven)
 ## Task:
 To investigate Brute Force attacks against our Windows server. 
 
-### Installation
+### Investigation Method
 As per [video](https://www.youtube.com/watch?v=l9KA6dPdOs8). 
 
 Resources that help in this task:
@@ -22,6 +22,9 @@ more interesting to investigate are the ones where the username is "Administrato
 #### From AbuseIPDB
 ![image](RDP_Romania_IP.jpg)
 
+#### Additional Resources to boost up on this:
+This was a bit challenging for me to understand Windows Logs and figuring out what were important logs to filter out. 
+One potential video to supplement would be [Logjammer](https://www.youtube.com/watch?v=7PzMYcPPLjE&list=PLG6KGSNK4PuDdqYkOuIlAoNmwtLg5wyYJ&index=11)
 
 ### Credits:
 Full credits to MyDFIR (Steven) for putting together this exercise
