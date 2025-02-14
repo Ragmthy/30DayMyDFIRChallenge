@@ -5,7 +5,7 @@ Creator of Exercise: MyDFIR (Steven)
 ## Task:
 To investigate Brute Force attacks against SSH server. 
 
-### Installation
+### Investigation
 As per [video](https://www.youtube.com/watch?v=sXQ1hsAFX7U). 
 
 Resources that help in this task:
