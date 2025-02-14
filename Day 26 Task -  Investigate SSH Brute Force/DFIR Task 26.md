@@ -27,6 +27,10 @@ Some insights gathered about the IP address from these sources.
 #### AbuseIPDB
 ![image](One_example_of_IP.jpg)
 
+#### Additional Resources to Explore for this:
+Cybersecurity SOC Analyst Lab - [Brute Force (SSH)](https://youtu.be/8sJCzoCGexE?si=qvI-Y46snxi0MAH_)
+It's a whole other series of alerts and Labs that a SOC Analyst might encounter when dissecting alerts or attacks. 
+
 
 ### Credits:
 Full credits to MyDFIR (Steven) for putting together this exercise
